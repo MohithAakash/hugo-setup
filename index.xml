@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Tanka Theme Demo</title>
-    <link>https://example.com/</link>
+    <link>https://mohithaakash.github.io/hugo-setup/</link>
     <description>Recent content on Hugo Tanka Theme Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 13 Jun 2021 19:58:59 +0530</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohithaakash.github.io/hugo-setup/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FPR-researcher of the week</title>
-      <link>https://example.com/posts/sample/</link>
+      <link>https://mohithaakash.github.io/hugo-setup/posts/sample/</link>
       <pubDate>Sun, 13 Jun 2021 19:58:59 +0530</pubDate>
       
-      <guid>https://example.com/posts/sample/</guid>
+      <guid>https://mohithaakash.github.io/hugo-setup/posts/sample/</guid>
       <description>FRANCESCO CONTI  Who is Francesco Conti?
  Francesco Conti is currently a Junior Assistant Professor (RTD-A) in the DEI department of the University of Bologna. Previously, has been a postdoctoral researcher at the Integrated Systems Laboratory His main works were into heterogeneous multicore architectures, in particular for energy-efficient and low-power embedded systems. Educational Qualification: He completed his Bachelor&amp;rsquo;s and Master&amp;rsquo;s in Electronics Engineering from University of Bologna at Italy ⁍ Also as a part of his Master&amp;rsquo;s he had been to Delft University of Technology - Netherlands on an Erasmus exchange program  Projects:</description>
     </item>
